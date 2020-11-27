@@ -1,4 +1,4 @@
-# lms-progress
+# Charts-progress
 
 ## Project setup
 ```

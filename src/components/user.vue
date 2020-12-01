@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1> Sensor Values </h1>
+        <h1> Sensor Input Values </h1>
 
             Temperature
             <input type="text" v-model="temp" required>
